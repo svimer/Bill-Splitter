@@ -1,0 +1,7 @@
+{
+  "name": "Check Splitter AI",
+  "description": "An application to photograph a receipt, recognize its contents, and split the bill among guests, including service fees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
